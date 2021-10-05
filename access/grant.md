@@ -39,3 +39,8 @@ application as required.
 **Cost of access to Cirrus is still being finalised, if you wish to
 include Cirrus on a grant application then please contact the
 [Cirrus Helpdesk](/support/).**
+
+Resource Avaiable
+==========================================  
+
+We would normally expect Grant Access applications to be around 500,000 - 2,000,000 Core-h per annum but we do have larger projects than this. Please contact the [Cirrus Helpdesk](/support/) to discuss if you have larger requirements.
