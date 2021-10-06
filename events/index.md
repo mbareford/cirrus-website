@@ -30,7 +30,17 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 Link to join the online sessions : <https://eu.bbcollab.com/guest/66065d74ce9d40909466371e5153c076>
 
 
+## Video Session 1
 
+<div>
+
+<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/frbzz-Nh-iE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<a  href="courses/"     href="files/211005-Cirrus_HPC.pdf">
+          <strong>Session 1 Slides</strong>
+        </a>
 											
 
 
