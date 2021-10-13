@@ -18,15 +18,15 @@ No recent issues
 
 ## Service Calendar and Maintenance
 
+## Maintenance Sessions:Quarter 4 2021 (1st Oct - 31st December 2021)
 
-## Upcoming Maintenance Sessions
+| Status | Type | Start | End | System | User Impact | Reason |
+| ---    | ---  | ---   | --- | ---    | ---         | ---    |
+| Planned | At-Risk | 27/10/21 0900 | 27/10/21 1700 | Cirrus | Period of up to 30mins when external connections are not possible. Compute nodes will continue to run jobs. | Network upgrade at the Advanced Computing Facility (ACF) |
 
-#### Wednesday 8th September
 
-There will be at an at-risk maintenance session from 09:00 to 12:00. At some point during this session, the service node will be rebooted. While it is being rebooted new jobs will not start, and users may experience issues logging in. Currently running jobs should be unaffected. The reboot should take 10-15 minutes.
 
 ### Wednesday 8th September 
-
 #### Modules Deletions
 As part of our regular maintenance of the Cirrus Service, we would like to remove outdated, broken or unused modules.
 
