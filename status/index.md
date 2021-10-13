@@ -34,11 +34,7 @@ As part of our regular maintenance of the Cirrus Service, we would like to remov
 
 | Module |  | 
 | ---    | ---  | 
-| ansys/17.2 |Please use later version | 
-
-
-| Module |  | 
-| ansys/17.2 | Please use later version | 
+| ansys/17.2 |Please use later version |  
 | ansys/19.2 | Please use later version | 
 | ansys/2020R1 | Please use later version | 
 | Intel 19.0.0.117 | Please use intel-19.5 or later. | 
