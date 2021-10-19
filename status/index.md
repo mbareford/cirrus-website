@@ -4,6 +4,33 @@ title: Cirrus Service Status
 summary: Up to date status of the Cirrus service
 ---
 
+&nbsp;
+
+- [Current System Load](#current-system-load)
+- [Known Issues](#known-issues)
+- [Current Issues](#current-issues)
+- [Recent Issues](#recent-issues)
+- [Service Calendar and Maintenance](#service-calendar-and-maintenance)
+
+
+## Current System Load
+
+The plot below shows the status of nodes on the current Cirrus service. A description of each of the status types is provided below the plot.
+
+![Cirrus Node Status graph](https://safe.epcc.ed.ac.uk/Graphs/cirrus.png)
+{: style="width=80%" align="center"
+alt="Cirrus Node Status over time" 
+title="Cirrus Node Status over time"}
+
+- *alloc*: Nodes running user jobs
+- *idle*: Nodes available for user jobs
+- *resv*: Nodes in reservation and not available for standard user jobs
+- *down*, *drain*, *maint*, *drng*, *comp*: Nodes unavailable for user jobs
+- *mix*: Nodes in multiple states 
+
+Note: the long running reservation visible in the plot corresponds to the *short* QoS which
+is used to support small, short jobs with fast turnaround time.
+
 ## Known Issues
 The Object Store (WoS) is currently unavailable. We are working with the vendor to restore storage as soon as possible.  
 We apologise for the inconvenience caused by this unplanned outage. 
