@@ -15,7 +15,10 @@ summary: Up to date status of the Cirrus service
 
 ## Current System Load
 
-The plot below shows the status of nodes on the current Cirrus service. A description of each of the status types is provided below the plot.
+The plot below shows the status of the CPU nodes on the current Cirrus service for the past day
+(note: the Cirrus GPU nodes are not included in this plot).
+
+A description of each of the status types is provided below the plot.
 
 ![Cirrus Node Status graph](https://safe.epcc.ed.ac.uk/Graphs/cirrus.png)
 {: style="width=80%" align="center"
