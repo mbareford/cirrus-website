@@ -35,8 +35,11 @@ Note: the long running reservation visible in the plot corresponds to the *short
 is used to support small, short jobs with fast turnaround time.
 
 ## Known Issues
-The Object Store (WoS) is currently unavailable. We are working with the vendor to restore storage as soon as possible.  
-We apologise for the inconvenience caused by this unplanned outage. 
+
+| Status | Type | Start | End | System | User Impact | Reason |
+| ---    | ---  | ---   | --- | ---    | ---         | ---    |
+| Ongoing | Issue | 2021-10-28 1130 BST | 2021-10-28 tbc | Cirrus | Some external connections are unavailable such as git pull, pushes, licence servers | Network changes at the ACF have caused issues. The University network team are working to resolve these. |   
+| Ongoing | Issue | 2021-07-01 0900 | tbc | Object Store (WoS) | The WoS is currently unavailable. | We are working withthe vendor to restore the WoS to service again. |   
 
 ### Current Issues
 
