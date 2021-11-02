@@ -48,7 +48,7 @@ is used to support small, short jobs with fast turnaround time.
 
 | Status | Type | Start | End | System | User Impact | Reason |
 | ---    | ---  | ---   | --- | ---    | ---         | ---    |
-| Planned | Outage | 2021-11-03  0900 | 2021-11-03 1700 | Cirrus | Full system will be unavailable during maintenance session. | Third-party maintenance on cooling system. |
+| Postponed | Outage | 2021-11-03  0900 | 2021-11-03 1700 | Cirrus | Full system will be unavailable during maintenance session. | Third-party maintenance on cooling system. |
 | Completed | At-Risk | 2021-10-27 0900 | 2021-10-27 1700 | Cirrus | Period of up to 30mins when external connections are not possible. Compute nodes will continue to run jobs. | Network upgrade at the Advanced Computing Facility (ACF) |
 
 
