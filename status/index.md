@@ -38,7 +38,7 @@ is used to support small, short jobs with fast turnaround time.
 
 | Status | Type | Start | End | System | User Impact | Reason |
 | ---    | ---  | ---   | --- | ---    | ---         | ---    |
-| Ongoing | Issue | 2021-10-28 1130 BST | 2021-10-28 tbc | Cirrus | Some external connections are unavailable such as git pull, pushes, licence servers | Network changes at the ACF have caused issues. The University network team are working to resolve these. |   
+| Ongoing | Issue | 2021-10-28 1130  | tbc | Cirrus | Some external connections are unavailable such as git pull, pushes, licence servers | Network changes at the ACF have caused issues. The University network team are working to resolve these. |   
 | Ongoing | Issue | 2021-07-01 0900 | tbc | Object Store (WoS) | The WoS is currently unavailable. | We are working withthe vendor to restore the WoS to service again. |   
 
 ### Current Issues
@@ -55,8 +55,8 @@ No recent issues
 
 | Status | Type | Start | End | System | User Impact | Reason |
 | ---    | ---  | ---   | --- | ---    | ---         | ---    |
-| Planned | Outage | 03/11/21 0900 | 03/11/21 1700 | Cirrus | Full system will be unavailable during maintenance session. | Third-party maintenance on cooling system. |
-| Completed | At-Risk | 27/10/21 0900 | 27/10/21 1700 | Cirrus | Period of up to 30mins when external connections are not possible. Compute nodes will continue to run jobs. | Network upgrade at the Advanced Computing Facility (ACF) |
+| Planned | Outage | 2021-11-03  0900 | 2021-11-03 1700 | Cirrus | Full system will be unavailable during maintenance session. | Third-party maintenance on cooling system. |
+| Completed | At-Risk | 2021-10-27 0900 | 2021-10-27 1700 | Cirrus | Period of up to 30mins when external connections are not possible. Compute nodes will continue to run jobs. | Network upgrade at the Advanced Computing Facility (ACF) |
 
 
 ## At Risk Maintenance Sessions
