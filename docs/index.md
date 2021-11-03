@@ -9,8 +9,8 @@ summary: Find out how to make best use of Cirrus
 The Cirrus User Guide is currently hosted on Readthedocs:
 
 * [Online Cirrus User Documentation](http://cirrus.readthedocs.io)
-* [Cirrus User Documentation (PDF)](http://readthedocs.org/projects/cirrus/downloads/pdf/master/)
-* [Cirrus User Documentation (Epub)](http://readthedocs.org/projects/cirrus/downloads/epub/master/)
+* [Cirrus User Documentation (PDF)](https://cirrus.readthedocs.io/_/downloads/en/master/pdf/)
+* [Cirrus User Documentation (Epub)](https://cirrus.readthedocs.io/_/downloads/en/master/epub/)
 
 ## New Access to Cirrus arrangements
 
