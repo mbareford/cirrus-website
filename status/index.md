@@ -34,6 +34,11 @@ title="Cirrus Node Status over time"}
 Note: the long running reservation visible in the plot corresponds to the *short* QoS which
 is used to support small, short jobs with fast turnaround time.
 
+
+## Known Issues 
+
+We are experiening a heavy load on the metadata server. Our systems team are investigating but we suspect this is due to user(s) performing many i/o operations. We apologise for the inconvenience this is causing users. 
+
 ## Service Alerts
 
 | Status | Type | Start | End | System | User Impact | Reason |
