@@ -70,18 +70,15 @@ We are experiening a heavy load on the metadata server. Our systems team are inv
 | ---    | ---  | ---   | 
 | Default git loaded at login to be updated to 2.27 | There should be no adverse consequences for git users | 2.21 will still be available as a non-default version |
 | Remove starccm+/12.04 | Outdated | Please Use a later version |
-
-Remove starccm+/12.04	Outdated	Please use a later version
-Remove starccm+/12.04.011-R8	Outdated	Please use a later version
-Remove starccm+/13.06.012	"	"
-Remove starccm+/13.06.012-R8	"	"
-Remove starccm+/14.04.013-R8	"	"
-Remove starccm_/14.06.013-R8	Outdated	Please use a later version
-Remove gnu-parallel/20170322-gcc6	Outdated	Use later version
-Remove matlab/R2018b	Outdated	Please use a later version
-Remove flacs/10.9.1	Outdated	Please use a later version
-Remove strace/2.2.0	Old	Use default strace/5.8
-
+| Remove starccm+/12.04.011-R8 | Outdated | Please Use a later version |
+| Remove starccm+/13.06.012	| Outdated | Please Use a later version |
+| Remove starccm+/13.06.012-R8 | Outdated | Please Use a later version |
+| Remove starccm+/14.04.013-R8 | Outdated | Please Use a later version |
+| Remove starccm_/14.06.013-R8 | Outdated	| Please use a later version |
+| Remove gnu-parallel/20170322-gcc6	| Outdated	| Use later version |
+| Remove matlab/R2018b	| Outdated | Please use a later version |
+| Remove flacs/10.9.1	| Outdated | Please use a later version |
+| Remove strace/2.2.0	| Old	| Use default strace/5.8 |
 
 ## At Risk Maintenance Sessions
 
