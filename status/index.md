@@ -66,7 +66,8 @@ We are experiening a heavy load on the metadata server. Our systems team are inv
 
 ## Regular Module Updates 
 
-We will be updating modules on cirrus as detailed below. The modules will be updated or removed on Wednesday 15th December so please contact us if you expect this to cause any issues, support@cirrus.ac.uk.  
+We will be updating modules on cirrus as detailed below. The modules will be updated or removed on Wednesday 15th December so please contact us if you expect this to cause any issues, support@cirrus.ac.uk.
+  
 | Description | Reason | Advice |
 | ---    | ---  | ---   | 
 | Default git loaded at login to be updated to 2.27 | There should be no adverse consequences for git users | 2.21 will still be available as a non-default version |
