@@ -43,7 +43,7 @@ We are experiening a heavy load on the metadata server. Our systems team are inv
 
 | Status | Type | Start | End | System | User Impact | Reason |
 | ---    | ---  | ---   | --- | ---    | ---         | ---    |
-| Ongoing | Issue | 2022-01-10 | tbc | Cirrus, SAFE | Outgoing network access from Cirrus to external sites is not currently working. SAFE response is slow or degraded. | DNS issue at the University of Edinburgh |
+| Ongoing | Issue | 2022-01-10 | tbc | Cirrus, SAFE | Outgoing network access from Cirrus to external sites is not currently working. SAFE response is slow or degraded. | DNS issue at datacentre |
 | Ongoing | Issue | 2021-07-01 0900 | tbc | Object Store (WoS) | The WoS is currently unavailable. | We are working with the hardware vendor to restore the WoS to service again. |   
 
 ### Recently Resolved Service Alerts
