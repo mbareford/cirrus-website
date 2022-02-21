@@ -4,6 +4,14 @@ title: Cirrus Service Status
 summary: Up to date status of the Cirrus service
 ---
 
+ ## Current System Load
+
+ ### Monday 21st February - Monday 14th March 
+ 
+ The Cirrus Service will be upgraded from Monday 21st February - Monday 14th March but users will be notified if we are able to return the system earlier. During this time, the Cirrus Service will be unavailable. This means that users will not be able to connect to the Cirrus login nodes, run jobs or access any data stored on Cirrus. Any jobs that are in the batch system queue will be removed.
+
+There will be new storage arrangements when the system is returned to users and these will be detailed in further user messages before the system is returned alongside updated documentation.
+
 &nbsp;
 
 - [Current System Load](#current-system-load)
