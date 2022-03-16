@@ -12,6 +12,12 @@ summary: Up to date status of the Cirrus service
 - [Recent Issues](#recent-issues)
 - [Service Calendar and Maintenance](#service-calendar-and-maintenance)
 
+## Wednesday 16th March: Cirrus Upgrade Status and Delayed Return to Service
+
+The HPE and EPCC Systems team continue to make good progress and are continuing to investigate some ongoing issues with the upgrade but a lot of issues have been resolved. The CSE team have completed their testing and the final documentation updates are being made. 
+We will provide a further update tomorrow and apologise for the delay in return to service.  
+
+
 ## Friday 11th March: Cirrus Upgrade Status and Delayed Return to Service
 
 Unfortunately, there was a delayed start to the upgrade process due to hardware issues on Cirrus. The hardware issues have been resolved and the teams have been making good progress with the Cirrus upgrade. The cluster management software has been upgraded and the operating system on the login and compute nodes has also been upgraded. The EPCC systems team are now making our local customisations to Cirrus in parallel to final work by HPE. The Computational Science and Engineering (CSE) team are also testing the programming environment and will rebuild any application software where needed.
