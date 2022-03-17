@@ -110,7 +110,6 @@ Module Update following Cirrus Upgrade March 2022
 | Remove htop/2.2.0	| Outdated	| Please use htop/3.1.2 |
 | Remove htop/3.0.0	| Outdated | Please use htop/3.1.2 |
 | Remove spack/2020 | Outdated | Update to install location has broken Spack rpaths, scripts, modules, etc. |
-| Remove WRF/em_real| Not used | Not required |
 | Remove openfoam/v1712| Outdated | Versions 2006 and 8.0 are centrally available |
 | Remove openfoam/v1912| Outdated | Versions 2006 and 8.0 are centrally available |
 | Remove fftw/3.3.8-intel18| Outdated | Please use the new build against MPT 2.25 |
@@ -118,7 +117,8 @@ Module Update following Cirrus Upgrade March 2022
 | Remove fftw/3.3.8-intel19-multiprecision | Outdated | Please use the new build against MPT 2.25 |
 | Remove fftw/3.3.8-intel19-mpt220-multiprecision | Outdated | Please use the new build against MPT 2.25 |
 | Remove fftw/3.3.8-gcc8-ompi4 | Outdated | Please use the new build against MPT 2.25 |
-| Remove strace/2.2.0	| Old	| Use default strace/5.8 |
+| Remove strace/2.2.0	| Outdated	| Use default strace/5.8 |
+| Remove WRF/em_real| Not used | Not required |
 
 
 ## At Risk Maintenance Sessions
