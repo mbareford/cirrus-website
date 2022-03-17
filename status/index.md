@@ -18,28 +18,9 @@ summary: Up to date status of the Cirrus service
 The upgraded Cirrus service has now been returned to service.
 There are a reduced number of nodes available 220/280 CPU nodes while HPE continue to investigate an issue. We hope to return all nodes to service by next week. 
 
+The management system software was updated as well as the operating system on the compute and login nodes. There is a new CEPH /home file system available and we hope to have the new /work file system available in the summer. 
+
 Please contact support@cirrus.ac.uk if you have any questions or require assistance and apologies for any inconvenience caused by the delay to return to service.
-
-## Wednesday 16th March: Cirrus Upgrade Status and Delayed Return to Service
-
-The HPE and EPCC Systems team continue to make good progress and are continuing to investigate some ongoing issues with the upgrade but a lot of issues have been resolved. The CSE team have completed their testing and the final documentation updates are being made. 
-We will provide a further update tomorrow and apologise for the delay in return to service.  
-
-
-## Friday 11th March: 
-
-Unfortunately, there was a delayed start to the upgrade process due to hardware issues on Cirrus. The hardware issues have been resolved and the teams have been making good progress with the Cirrus upgrade. The cluster management software has been upgraded and the operating system on the login and compute nodes has also been upgraded. The EPCC systems team are now making our local customisations to Cirrus in parallel to final work by HPE. The Computational Science and Engineering (CSE) team are also testing the programming environment and will rebuild any application software where needed.
-
-The new CEPH storage is now attached to Cirrus and further details of the new storage arrangements will be sent via a user mailing and will be fully documented on the Cirrus website.
-
-Given the delayed start to the upgrade process, we are not able to reopen the service on Monday 14th March as previously advertised. We will send a further user mailing on Wednesday 16th March where we hope to confirm the return to service time and do apologise for the delay in return to service.
-
-## Cirrus Upgrade: Monday 21st February - Monday 14th March 
- 
-The Cirrus Service will be upgraded from Monday 21st February - Monday 14th March but users will be notified if we are able to return the system earlier. During this time, the Cirrus Service will be unavailable. This means that users will not be able to connect to the Cirrus login nodes, run jobs or access any data stored on Cirrus. Any jobs that are in the batch system queue will be removed.
-
-There will be new storage arrangements when the system is returned to users and these will be detailed in further user messages before the system is returned alongside updated documentation.
-
 
 ## Current System Load
 
