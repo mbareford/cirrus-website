@@ -87,8 +87,11 @@ Module Update following Cirrus Upgrade March 2022
 | ---    | ---  | ---   | 
 | Default git loaded at login is 2.35.1 | There should be no adverse consequences for git users | 2.21 will still be available as a non-default version |
 | Updated mpt	| Updated | The HPE MPI implementation (MPT) has been updated to mpt/2.25. The previous version mpt/2.22 is no longer available. Applications may require recompilation |
-| Updated nvidia/nvhpc	| Updated | Version 22.2 (February 2022) has been added, supporting CUDA 11.6. The default is now the latest available version on the system. Versions 21.9 and 21.2 are still available (default was 21.2), but the latest version is recommended. Applications may require re-compilation. |
-| Updated nvidia/nvhpc	| Updated | Version 22.2 (February 2022) has been added, supporting CUDA 11.6. The default is now the latest available version on the system. Versions 21.9 and 21.2 are still available (default was 21.2), but the latest version is recommended. Applications may require re-compilation. |
+| Updated nvidia/cub/1.8.0 | Updated | Please use nvidia/nvhpc/22.2, which contains cub |
+| Updated nvidia/cuda-11.2 | Updated | Please use nvidia/nvhpc/22.2, which contains cuda 11.6 |
+| Updated nvidia/cudnn/8.2.1-cuda-11.2 | Updated | Please use nvidia/cudnn/8.2.1-cuda-11.6 |
+| Updated nvidia/nvhpc	| Updated | nvidia/mathlibs-11.2 superseded by nvidia/nvhpc/22.2, which contains mathlibs cuda 11.6 |
+| Updated nvidia/nvhpc-nompi	| Updated | nvidia/mathlibs-11.2 superseded by nvidia/nvhpc/22.2, which contains mathlibs cuda 11.6 |
 | Remove anaconda/python2 | Outdated | Use anaconda/python3-2021.11 for python3 |
 | Remove anaconda/python3-5.1.0 | Outdated | Use anaconda/python3-2021.11 for python3 |
 | Remove epcc/deprecated-software	| Outdated | Deprecated with extreme prejudice |
@@ -97,7 +100,8 @@ Module Update following Cirrus Upgrade March 2022
 | Remove hdf5parallel/1.10.6-gcc6-mpt222 | Outdated	| Please use new HDF5 module built against MPT 2.25 |
 | Remove htop/2.2.0	| Outdated	| Please use htop/3.1.2 |
 | Remove htop/3.0.0	| Outdated | Please use htop/3.1.2 |
-| Remove spack/2020 | Outdated | Update to install location has broken Spack rpaths, scripts, modules, etc. |
+| Remove namd/2.12	| Outdated | Please use Superseded by namd/2.14 |
+| Remove netcdf-parallel/4.7.4-intel18-mpt222	| Outdated | Depends on hdf5parallel/1.10.6-intel18-mpt222 being removed. To be replaced with proposed new NetCDF module built against MPT 2.25 |
 | Remove openfoam/v1712| Outdated | Versions 2006 and 8.0 are centrally available |
 | Remove openfoam/v1912| Outdated | Versions 2006 and 8.0 are centrally available |
 | Remove fftw/3.3.8-intel19-mpt220| Outdated | Please use the new build against MPT 2.25 |
