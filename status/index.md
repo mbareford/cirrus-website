@@ -60,6 +60,8 @@ We are experiening a heavy load on the metadata server. Our systems team are inv
 | ---    | ---  | ---   | --- | ---    | ---         | ---    |
 | Resolved | Issue | 2022-03-28 16:50 | 2022-03-28 16:53 | Cirrus | Users logged out of login node 1. | Login node 1 shut down due to operator error. Users can reconnect and will be automatically directed to other login nodes. | 
 | Resolved | Issue | 2022-01-09 10:00 | 2022-01-10 10:30 | Cirrus, SAFE | Outgoing network access from Cirrus to external sites was not working. SAFE response was slow or degraded. | DNS issue at datacentre |
+| Resolved | Issue | 2021-11-05 0800  | 2021-11-05 1130 | Cirrus: CPU compute nodes | A small number of CPU compute nodes were unavailable to run jobs | A power incident in the Edinburgh area caused a number of CPU compute nodes to lose power. |  
+| Resolved | Issue | 2021-10-28 1130  | 2021-10-28 1600 | Cirrus | Some external connections are unavailable such as git pull, pushes, licence servers | Network changes at the ACF have caused issues. The University network team have resolved the issues. |
 
 ## Service Calendar and Maintenance
 
