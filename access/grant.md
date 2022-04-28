@@ -11,7 +11,7 @@ On J-eS, access can be requested by including Cirrus costs on a
 standard EPSRC grant application.
 
 A completed
-[Grant/Open Access Technical Assessment (TA)](ta/Cirrus-TA-RAPGrant-form.docx) must be uploaded
+[Grant/Open Access Technical Assessment (TA)](ta/Cirrus-TA-Grant-form.docx) must be uploaded
 along with the application as a supporting document. 
 
 Cirrus should be added to EPSRC Je-S applications in the following way 
@@ -31,7 +31,7 @@ Access through other grant-awarding bodies
 Cirrus costs can be included in applications from other grant awarding
 bodies.
 
-You should complete a  [Grant/Open Access Technical Assessment (TA)](ta/Cirrus-TA-RAPGrant-form.docx)  form and
+You should complete a  [Grant/Open Access Technical Assessment (TA)](ta/Cirrus-TA-Grant-form.docx)  form and
 send to the [Cirrus Helpdesk](/support/) ahead of your proposal 
 submission. The completed TA form can then be included along with your
 application as required.
