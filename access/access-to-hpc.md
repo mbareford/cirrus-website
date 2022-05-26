@@ -9,15 +9,11 @@ Apply for Access to HPC
 
 Provides an open and relatively flexible route to computational support for projects in EPSRC remit. You can access to EPSRC’s HPC systems (both ARCHER2 and most of the Tier-2 services). Projects can be up to 1 year in length. 
 
-This call is for researchers to apply for computational resource from EPSRC funded High Performance Computing (HPC) services to support research projects from across EPSRC’s remit. It is the successor to the ARCHER RAP and Tier-2 Open access calls which ran prior to 2020. Projects can run for up to one year (service dependent). On average, this call runs twice a year.
+This call is for researchers to apply for computational resource from EPSRC funded High Performance Computing (HPC) services to support research projects from across EPSRC’s remit. It is the successor to the ARCHER RAP and Tier-2 Open access calls which ran prior to 2020. Projects can run for up to one year (service dependent). This call usually opens twice a year.
 
-The services available are ARCHER2, the upcoming Tier-1 national supercomputer accessible to EPSRC research communities, and most of EPSRC’s Tier-2 HPC services: Isambard, NI-HPC, JADE, Cirrus, NICE, CSD3 and HPC Midlands +.
-
-EPSRC’s final Tier-2 service, the Materials Modelling Hub, is not accessible through this call but can be accessed through EPSRC’s Materials Chemistry Consortium (MCC) and UK Car-Parrinello Consortium (UKCP).
-
+The services available are ARCHER2, the UK national supercomputing service and most of EPSRC’s Tier-2 HPC service.
 
 See [Cirrus Open Calls](./#current-open-calls)
-
 
 ## Application Procedure
 
