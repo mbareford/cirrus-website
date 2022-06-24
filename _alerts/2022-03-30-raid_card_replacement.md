@@ -1,5 +1,5 @@
 ---
-status: Ongoing
+status: Resolved
 type: Issue
 start_date: 2022-06-22 09:00
 end_date: 2022-06-23 15:00
