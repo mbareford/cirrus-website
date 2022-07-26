@@ -54,7 +54,7 @@ GPU accelerators and 1440 CPU cores.
 There are also two Cirrus GPU compute nodes which each contain two 2.4 GHz, 20-core Intel 
 Xeon Gold 6148 (Skylake) series processors. Each of the cores in these processors support 
 2 hardware threads (Hyperthreads), which are enabled by default. The nodes also each contain 
-four NVIDIA Tesla V100-SXM2-16GB (Volta) GPU acclerators connected to the host processors and
+four NVIDIA Tesla V100-SXM2-16GB (Volta) GPU accelerators connected to the host processors and
 each other via PCIe. These GPU compute nodes provide a total of 8 GPU accelerators and 80
 CPU cores.
 
