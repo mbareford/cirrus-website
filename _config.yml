@@ -39,3 +39,6 @@ collections:
     output: false
   maintenance:
     output: false
+  courses:
+    output: true
+    permalink: /training/courses/:path/    
