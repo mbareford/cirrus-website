@@ -34,9 +34,6 @@ title="Cirrus Node Status over time"}
 - *down*, *drain*, *maint*, *drng*, *comp*: Nodes unavailable for user jobs
 - *mix*: Nodes in multiple states 
 
-Note: the long running reservation visible in the plot corresponds to the *short* QoS which
-is used to support small, short jobs with fast turnaround time.
-
 ### GPU
 ![Cirrus GPU Node Status graph](https://safe.epcc.ed.ac.uk/Graphs/cirrus_gpu.png)
 {: style="width=80%" align="center"
