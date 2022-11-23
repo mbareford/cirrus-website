@@ -237,36 +237,19 @@ This table lists resolved service alerts from the past 30 days.
 
 ## Module Updates 
 
-Module Update following Cirrus Upgrade March 2022 
+Module Update following Cirrus Upgrade September 2022 
   
 | Description | Reason | Advice |
 | ---    | ---  | ---   | 
-| Default git loaded at login is 2.35.1 | There should be no adverse consequences for git users | 2.21 will still be available as a non-default version |
-| Updated mpt	| Updated | The HPE MPI implementation (MPT) has been updated to mpt/2.25. The previous version mpt/2.22 is no longer available. Applications may require recompilation |
-| Updated nvidia/cub/1.8.0 | Updated | Please use nvidia/nvhpc/22.2, which contains cub |
-| Updated nvidia/cuda-11.2 | Updated | Please use nvidia/nvhpc/22.2, which contains cuda 11.6 |
-| Updated nvidia/cudnn/8.2.1-cuda-11.2 | Updated | Please use nvidia/cudnn/8.2.1-cuda-11.6 |
-| Updated nvidia/nvhpc	| Updated | nvidia/mathlibs-11.2 superseded by nvidia/nvhpc/22.2, which contains mathlibs cuda 11.6 |
-| Updated nvidia/nvhpc-nompi	| Updated | nvidia/mathlibs-11.2 superseded by nvidia/nvhpc/22.2, which contains mathlibs cuda 11.6 |
-| Remove anaconda/python2 | Outdated | Use anaconda/python3-2021.11 for python3 |
-| Remove anaconda/python3-5.1.0 | Outdated | Use anaconda/python3-2021.11 for python3 |
-| Remove epcc/deprecated-software	| Outdated | Deprecated with extreme prejudice |
-| Remove hdf5parallel/1.10.6-intel18-mpt222 | Outdated | Please use new HDF5 module built against MPT 2.25 |
-| Remove hdf5parallel/1.10.6-intel19-mpt222| Outdated | Please use new HDF5 module built against MPT 2.25 |
-| Remove hdf5parallel/1.10.6-gcc6-mpt222 | Outdated	| Please use new HDF5 module built against MPT 2.25 |
-| Remove htop/2.2.0	| Outdated	| Please use htop/3.1.2 |
-| Remove htop/3.0.0	| Outdated | Please use htop/3.1.2 |
-| Remove namd/2.12	| Outdated | Please use Superseded by namd/2.14 |
-| Remove netcdf-parallel/4.7.4-intel18-mpt222	| Outdated | Depends on hdf5parallel/1.10.6-intel18-mpt222 being removed. To be replaced with proposed new NetCDF module built against MPT 2.25 |
-| Remove openfoam/v1712| Outdated | Versions 2006 and 8.0 are centrally available |
-| Remove openfoam/v1912| Outdated | Versions 2006 and 8.0 are centrally available |
-| Remove fftw/3.3.8-intel19-mpt220| Outdated | Please use the new build against MPT 2.25 |
-| Remove fftw/3.3.8-intel19-multiprecision | Outdated | Please use the new build against MPT 2.25 |
-| Remove fftw/3.3.8-intel19-mpt220-multiprecision | Outdated | Please use the new build against MPT 2.25 |
-| Remove fftw/3.3.8-gcc8-ompi4 | Outdated | Please use the new build against MPT 2.25 |
-| Remove spack/2020 | Outdated | Update to install location has broken Spack rpaths, scripts, modules, etc. |
-| Remove strace/2.2.0	| Outdated	| Use default strace/5.8 |
-| Remove WRF/em_real| Not used | Not required |
+| Removed Molpro module and user doc section | No longer functional | No longer centrally supported on Cirrus |
+| Forge to be updated	| v20.0.3 found to have security flaw | Pending. Newer version will be installed as a replacement. |
+| Updated mpi4py | All the mpi4py modules are tied to a particular version of python, 3.8.12. More flexibility is required such that users can run python-based parallel code using different python versions. | The mpi4py modules have been replaced by a suite of python modules: python/3.8.13, python/3.8.13-gpu, python/3.9.12, and python/3.9.12-gpu. The gpu modules load a miniconda3 python environment containing mpi4py 3.1.3 linked with OpenMPI 4.1.x and CUDA 11.6; whereas the cpu modules (no -gpu suffix) load a python environment containing mpi4py 3.1.3 linked with HPE MPT 2.25. (The python/3.8.13-gpu module is linked with OpenMPI 4.1.2 and the python/3.9.12-gpu module is linked with OpenMPI 4.1.4.) |
+| Updated horovod | Updated | Module version 0.24.2-gpu has been replaced by 0.25.0-gpu. |
+| Updated pytorch | Updated | Module version 1.11.0-gpu has been replaced by 1.12.0-gpu. |
+| Updated tensorflow | Updated | Module version 2.8.0-gpu has been replaced by 2.9.1-gpu. |
+| Updated scalasca	| Version 2.5 no longer functional. | Please use 2.6-gcc8-mpt225 or 2.6-intel19-mpt225 instead. |
+| Removed spack/2020 module | Not used. | Not required. Please contact the service desk if Spack installation is needed. |
+| Updated tmux | Version 3.1b no longer functional. | Version 3.3a provided as replacement. |
 
 
 ## At Risk Maintenance Sessions
