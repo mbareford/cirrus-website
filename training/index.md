@@ -93,9 +93,7 @@ Some courses use ARCHER2, other will use laptops only.  Temporary ARCHER2 machin
 
 | Course | Venue |	Dates |	Register Link |
 | --- | ---      | ---    | --- |
-|[Advanced OpenMP](https://www.archer2.ac.uk/training/courses/221129-advanced-openmp/) |	Online |	29 - 30 November 2022 09:00 - 17:00 GMT | 	[ Register](https://events.prace-ri.eu/event/1462/registrations/1078/) |
-| [Reproducible computational environments using containers](https://www.archer2.ac.uk/training/courses/221207-containers/) | 	[Newcastle University](https://www.archer2.ac.uk/training/locations/newcastle) |	7 - 8 December 2022 10:30 - 16:30 GMT |	[Register](https://www.archer2.ac.uk/training/register/?course=221207-containers) |
-| [Introduction to Modern Fortran](https://www.archer2.ac.uk/training/courses/221213-modern-fortran/) |	[Oxford e-Science Research Centre](https://www.archer2.ac.uk/training/locations/oxford) |	13 - 14 December 2022 09:30 - 16:30 GMT |	[ Register](https://events.prace-ri.eu/event/1467/registrations/1083/) |
+| [Message Passing programming with MPI](https://www.archer2.ac.uk/training/courses/230222-mpi/) |	[Imperial College London](https://www.archer2.ac.uk/training/locations/imperial) |	22 - 24 February 2023 10:00 - 17:30 (Day 1 and 2) 10:00 - 15:00 (Day 3) |	[Register](https://www.archer2.ac.uk/training/register/?course=230222-mpi) |
 
 
 <br>
