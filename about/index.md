@@ -60,11 +60,8 @@ role in running and supporting the service. The key staff are:
 * Prof. Mark Parsons (Service Director)
 * Dr Alan Simpson (Deputy Service Director)
 * Ms Josephine Beech-Brandt (Service Owner)
-* Mr Thomas Blyth (Commercial Manager)
-* Mr Donald Scobbie (Systems Manager)
-* Ms Anne Whiting (User Support Manager)
-* Mr Kris Findlay (System Administrator)
-* Mr Craig Morris (System Administrator)
+* Dr Julien Sindt (Commercial Manager)
+* Mr Paul Clark (HPC Systems Director)
 
 ## Contact Us
 
