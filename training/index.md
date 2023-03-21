@@ -94,10 +94,11 @@ Some courses use ARCHER2, other will use laptops only.  Temporary ARCHER2 machin
 
 | Course | Venue |	Dates |	Register Link |
 | --- | ---      | ---    | --- |
-| [Data Analysis and Visualisation in Python](https://www.archer2.ac.uk/training/courses/230330-data-analysis-python/) 	 | 	Online 	| 30 - 31 March 2023 09:30 - 17:00 BST | [Join waiting list](https://www.archer2.ac.uk/training/register/?course=230330-data-analysis-python) |
 | [ARCHER2 for Data Scientists](https://www.archer2.ac.uk/training/courses/230411-data-scientists/) 	 | 	Online |	11 April 2023 10:00 - 17:30 BST | [Register](https://www.archer2.ac.uk/training/register/?course=230411-data-scientists) |
 | [HPC Carpentry](https://www.archer2.ac.uk/training/courses/230411-hpc-carpentry/) 	 | 	[The Glassroom, Edinburgh Napier University (Merchiston campus) ](https://www.archer2.ac.uk/training/locations/napier-merchiston)	| 11 - 12 April 2023 09:30 - 16:00 BST | [Register](https://www.archer2.ac.uk/training/register/?course=230411-hpc-carpentry) |
+| [Modern C++ for Computational Scientists](https://www.archer2.ac.uk/training/courses/230417-modern-c/) |	  	Online 	| 17 - 20 April 2023 09:30 - 12:30 BST 	| [Join waiting list](https://www.archer2.ac.uk/training/register/?course=230417-modern-c) |
 | [Data Carpentry](https://www.archer2.ac.uk/training/courses/230424-data-carpentry/) 	 | 	Online |	24th - 27th April 2023 09:30 - 13:00 BST | [Register](https://www.archer2.ac.uk/training/register/?course=230424-data-carpentry) |
+| [Modern C++ for Computational Scientists](https://www.archer2.ac.uk/training/courses/230424-modern-c/) |	  	Online |	24 - 27 April 2023 13:00 - 16:00 BST |	[Register](https://www.archer2.ac.uk/training/register/?course=230424-modern-c) |
 
 <br>
 See [all upcoming ARCHER2 training](https://www.archer2.ac.uk/training/#upcoming-training)
