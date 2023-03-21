@@ -25,10 +25,8 @@ Cirrus has been designed to support a wide range of industry applications
 and EPCC can provide both access to HPC resources and also consultancy to
 effectively exploit HPC resources.
 
-For access to Cirrus and EPCC expertise please contact Julien Sindt
-(<j.sindt@epcc.ed.ac.uk>, +44 131 651 3460) and see the 
-[EPCC Accelerator](https://www.epcc.ed.ac.uk/work-us/industry-engagement-programmes/accelerator)
-page.
+For access to Cirrus and EPCC expertise please contact our Commercial Manager, Julien Sindt
+(<j.sindt@epcc.ed.ac.uk>, +44 131 651 3460).
 
 Academic Access
 ---------------
