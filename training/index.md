@@ -74,9 +74,6 @@ summary: Training opportunities for Cirrus users
 
 </div>
 
-### [UK National Open Hackathon 2023](https://www.openhackathons.org/s/siteevent/a0C5e000005V6EDEA0/se000151)
-
-[The UK National Open Hackathon](https://www.openhackathons.org/s/siteevent/a0C5e000005V6EDEA0/se000151) partnered with EPSRC, NVIDIA, and OpenACC.org will be designed for teams to work in productive sprint sessions with expert mentors for the duration of the [event](230306-uk-national-open-hackathon).
 
 
 
