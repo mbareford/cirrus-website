@@ -91,7 +91,9 @@ Some courses use ARCHER2, other will use laptops only.  Temporary ARCHER2 machin
 
 | Course | Venue |	Dates |	Register Link |
 | --- | ---      | ---    | --- |
-| No upcoming courses | | | |
+| No upcoming courses | - | -  |- |
+
+
 <br>
 See [all upcoming ARCHER2 training](https://www.archer2.ac.uk/training/#upcoming-training)
 
