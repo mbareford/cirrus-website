@@ -102,4 +102,4 @@ See [resources for past ARCHER2 training](https://www.archer2.ac.uk/training/mat
 
 ### Other Training relevant for Cirrus users
 
-- None at present
+*  [Training offered by other UK HPC centres](https://www.hpc-uk.ac.uk/training/)
