@@ -90,3 +90,19 @@ They are also required to abide by the [Cirrus policies](../../../about/policies
 </section>
 
 
+<h2><a name="feedback">Feedback</a></h2>
+
+
+
+<a   href="../../feedback/?course=230503-cirrus-gpu" 	>
+Please let us know what was great about this course and anything we can improve   
+</a>
+
+
+
+
+	
+		
+
+ 
+	
