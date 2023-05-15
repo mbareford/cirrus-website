@@ -172,13 +172,13 @@ This table lists resolved service alerts from the past 30 days.
 
 ## Service Calendar and Maintenance
 
-## Maintenance Sessions:Quarter 4 2022 (1st October - 31st December 2022)
+## Maintenance Sessions:Quarter 2 2023 (1st April - 30th June 2023)
 
-{% assign maintenance_2023_q1 = site.maintenance | where_exp: "maintenance", "maintenance.quarter >= '2023_q1'" %}
-{% for maintenance in maintenance_2023_q1 reversed %}
+{% assign maintenance_2023_q2 = site.maintenance | where_exp: "maintenance", "maintenance.quarter >= '2023_q2'" %}
+{% for maintenance in maintenance_2023_q2 reversed %}
 
     {% if forloop.first == true %}
-### Quarter 1 2023
+### Quarter 2 2023
 
 
   <table>
