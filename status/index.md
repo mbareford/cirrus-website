@@ -172,61 +172,67 @@ This table lists resolved service alerts from the past 30 days.
 
 ## Service Calendar and Maintenance
 
-## Maintenance Sessions:Quarter 2 2023 (1st April - 30th June 2023)
 
-{% assign maintenance_2023_q2 = site.maintenance | where_exp: "maintenance", "maintenance.quarter >= '2023_q2'" %}
-{% for maintenance in maintenance_2023_q2 reversed %}
+This section lists recent and upcoming maintenance sessions. 
+[A full list of past maintenance sessions is available](history/maintenance).
 
-    {% if forloop.first == true %}
-### Quarter 2 2023
-
-
-  <table>
+{% assign date_now = "now" | date: "%s" %}
+{% assign date_thresh = date_now | minus: 2592000 | date: "%s" %}
+{% assign count = 0 %}
+{% for maint in site.maintenance reversed %}
+    {% assign sd = maint.start_date | date: "%s" %}
+    {% if sd > date_thresh %}
+        {% if count == 0 %}
+<div class="table-responsive">
+  <table class="table table-striped">
     <thead>
       <tr>
         <th>Status</th>
         <th>Type</th>
         <th>Start</th>
         <th>End</th>
-        <th>System</th>
+        <th>Scope</th>
         <th>User Impact</th>
         <th>Reason</th>
       </tr>
     </thead>
-
     <tbody>
-    {% endif %}
+        {% endif %}
       <tr>
       <td>
-        {{ maintenance.status }}
+        {{ maint.status }}
       </td>
       <td>
-        {{ maintenance.type }}
+        {{ maint.type }}
       </td>
       <td>
-        {{ maintenance.start_date }}
+        {{ maint.start_date   }}
       </td>
       <td>
-        {{ maintenance.end_date }}
+        {{ maint.end_date   }}
       </td>
       <td>
-        {{ maintenance.system }}
+        {{ maint.system }}
       </td>
       <td>
-        {{ maintenance.impact }}
+        {{ maint.impact }}
       </td>
       <td>
-        {{ maintenance.reason }}
+        {{ maint.reason }}
       </td>
       </tr>
-    {% if forloop.last == true %}
+        {% assign count = count | plus: 1 %}
+    {% endif %}
+{% endfor %}
+{% if count > 0 %}
     </tbody>
   </table>
-
-    {% endif %}
+</div>
 {% else %}
-<p>No scheduled maintenance</p>
-{% endfor %}
+<p>No scheduled or recent maintenance sessions</p>
+{% endif %}
+
+
 
 
 ## Maintenance Logs for previous periods
