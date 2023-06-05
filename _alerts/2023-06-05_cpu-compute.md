@@ -1,5 +1,5 @@
 ---
-status:cw Ongoing
+status: Ongoing
 type: Service alert
 start_date: 2023-06-03 21:10 BST
 end_date: 
