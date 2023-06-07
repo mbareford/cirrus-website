@@ -17,7 +17,7 @@ use the [grant process](grant.html) rather than this method.
 **Note:** Only researchers in Scottish academic institutions are eligible.
 
 **Note:** Typically, only one Scottish Access application will be funded per 
-researcher. Short, trial-access, projects can be converted into longer access
+research group. Short, trial-access, projects can be converted into longer access
 with larger resources if the trial is successful.
 
 Resources Available
