@@ -42,3 +42,5 @@ collections:
   courses:
     output: true
     permalink: /training/courses/:path/    
+    
+future: true
