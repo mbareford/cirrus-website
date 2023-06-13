@@ -15,11 +15,14 @@ banner: web_banners_02.jpg
   &nbsp;&nbsp;&nbsp;&nbsp;
   {{ post.author }}
 
+<!--
       &nbsp;&nbsp;&nbsp;&nbsp;
       {% for tag in post.tags %}
         {% capture tag_name %}{{ tag }}{% endcapture %}
         <a href="/about/news/{{ tag_name }}" ><code  style="font-size:15px;"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
-      {% endfor %}         
+      {% endfor %}   
+-->
+      
   </p>
 
   <p>
