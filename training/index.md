@@ -91,7 +91,7 @@ Some courses use ARCHER2, other will use laptops only.  Temporary ARCHER2 machin
 
 | Course | Venue |	Dates |	Register Link |
 | --- | ---      | ---    | --- |
-| No upcoming courses | - | -  |- |
+| [Software Carpentry ](https://www.archer2.ac.uk/training/courses/230626-software-carpentry/)|  	[Edinburgh Paterson's Land](https://www.archer2.ac.uk/training/locations/edinburgh-patersons-land) | 26 - 27 June 2023 09:30 - 17:00 BST | [Register](https://www.archer2.ac.uk/training/register/?course=230628-hpc-carpentry) |
 
 
 <br>
