@@ -1,7 +1,7 @@
 ---
 status: Ongoing
 type: Service alert
-start_date: 2023-08-07 10:30 BST
+start_date: 2023-08-07
 end_date: 
 scope: /scratch solid state storage
 impact: /scratch unavailable
