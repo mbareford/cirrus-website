@@ -92,6 +92,7 @@ Some courses use ARCHER2, other will use laptops only.  Temporary ARCHER2 machin
 | Course | Venue |	Dates |	Register Link |
 | --- | ---      | ---    | --- |
 | [Parallel Performance Analysis using Scalasca](https://www.archer2.ac.uk/training/courses/230822-scalasca/) | [Oxford](https://www.archer2.ac.uk/training/locations/oxford-dtc)  | 22 - 23 August 2023 09:30 - 16:30 BST | [Register](https://www.archer2.ac.uk/training/register/?course=230822-scalasca) |
+| [Advanced MPI](https://www.archer2.ac.uk/training/courses/230906-advanced-mpi/) 	|	Online |	6 - 7 september 2023 09:30 - 17:00 BST |	[Register](https://www.archer2.ac.uk/training/register/?course=230906-advanced-mpi)
 
 
 <br>
