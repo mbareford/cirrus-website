@@ -45,7 +45,7 @@ When employing hyperthreads, the core count doubles to 20,160.
 #### GPU compute nodes
 
 The Cirrus Phase II GPU nodes added 36 GPU compute nodes which each contain two 2.5 GHz, 
-20-core Intel Xeon Gold 6248 (Cascade Lake) series processors. Each of the cores in these 
+20-core Intel Xeon Gold 6148 (Cascade Lake) series processors. Each of the cores in these 
 processors support 2 hardware threads (Hyperthreads), which are enabled by default. 
 The nodes also each contain four NVIDIA Tesla V100-SXM2-16GB (Volta) GPU accelerators connected 
 to the host processors and each other via PCIe. These GPU compute nodes provide a total of 144 
@@ -67,8 +67,8 @@ latency and higher bandwidth than accessing memory on the other NUMA region.
 There are three levels of cache, configured as follows:
 
 -   L1 Cache 32 KiB Instr., 32 KiB Data (per core)
--   L2 Cache 1 GiB (per core)
--   L3 Cache GiB MB (shared)
+-   L2 Cache 1 MiB (per core)
+-   L3 Cache 27.5 MiB (shared)
 
 Each GPU accelerator has 16 GiB of fast GPU memory.
 
