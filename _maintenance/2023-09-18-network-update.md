@@ -1,7 +1,7 @@
 ---
 status: Scheduled
 type: Partial
-start_date: 18 September 2023 
+start_date: 18 September 2023 09:00
 end_date: 22 September 2023 
 quarter: 2023_q3
 system: Cirrus
