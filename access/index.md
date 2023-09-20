@@ -16,6 +16,7 @@ Resource Units
 Access to Cirrus is currently granted in units of:
 
 * Core-h for compute allocations: 1 Cirrus Core-h is the equivalent of 1 physical core used for 1 hour;
+* GPUh for GPU compute allocations: 1 Cirrus GPUh is the equivalent of 1 physical GPU core used for 1 hour;
 * GiB for disk allocations: 1 GiB is 1048576 kB.
 
 Industry Access
@@ -60,7 +61,7 @@ different access routes (please follow the links for further information):
 * [Grant Access](grant.html): Larger amounts of time and storage for lifetime of research grant
 * [Access to HPC](access-to-hpc.html): Provides an open and relatively flexible route to computational support.
 
-In all cases, you should complete a Cirrus Technical Assessment form. This short form allows our technical experts to ensure that your project will get the most out of access to Cirrus and will help us to make sure that Cirrus can support the research you wish to undertake.  
+In all cases, you should complete a Cirrus Technical Assessment form that includes a costing for the value of using the facility or resource, to include in your application. This short form allows our technical experts to ensure that your project will get the most out of access to Cirrus and will help us to make sure that Cirrus can support the research you wish to undertake.  
 
 ### Access for academics at Scottish institutions
 
