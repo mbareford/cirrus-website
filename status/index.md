@@ -14,6 +14,10 @@ summary: Up to date status of the Cirrus service
 - [Module Updates](#module-updates)
 - [Service Calendar and Maintenance](#service-calendar-and-maintenance)
 
+## Cirrus data centre network upgrade: 2023
+
+**Cirrus is currently inaccessible** due to a Data Centre Network upgrade which is taking place between Monday 18th - Friday 22nd September.  [Further details](https://cirrus.readthedocs.io/en/main/user-guide/network-upgrade-2023.html)
+
 ## Current System Load
 
 The plot below shows the status of the CPU nodes on the current Cirrus service for the past day
