@@ -7,19 +7,18 @@ summary: Adding Cirrus access to research grants
 Access through EPSRC grants
 ===========================
 
-On J-eS, access can be requested by including Cirrus costs on a
-standard EPSRC grant application.
+You can include Cirrus on EPSRC funding applications when you are applying for funding (if you already have an active grant then you should consider applying via one of the calls for Cirrus time only that are described
+on our [Access page](../access/).
 
-A completed
-[Grant/Open Access Technical Assessment (TA)](ta/Cirrus-TA-Grant-form.docx) must be uploaded
-along with the application as a supporting document. 
+When submitting proposals to EPSRC Standard Mode (Grant) that include Cirrus resources on the UKRI Funding Service, you should add Cirrus  under Section 6: Facilities
 
-Cirrus should be added to EPSRC Je-S applications in the following way 
+- facility name: Cirrus
+- usage: the requested resource in Core-h and/or GPUh as *[unit](../access/#resource-units)* and the notional cost in £ as *cost*. Reasonable Cirrus allocations are
+now awarded for the duration of the EPSRC funding. 
+- confirmation of facility agreement: This is a completed [Technical Assessment Form](https://www.cirrus.ac.uk/access/ta/Cirrus-TA-Grant-form.docx)   prior to submission.  Should an application be funded then grant funding would not be released until EPSRC have had sight of the relevant TA, as provided by the facility. <br/><br/>
 
-1. Go to the "Research Council Facilities" section 
-2. Select the facility "Other" from the drop down menu, use "Cirrus (Tier-2 HPC)" as the name of the facility in the "Proposed Usage box" 
-3.The "Units" text box should contain the number of Core-h you are requesting along with the unit specifier, e.g. "20000 Core-h" 
-4. The notional cost of access to the facility should be included in the access costs text box. (This is the number you calculate from your Core-h number and the cost per Core-h.) 
+
+
 
 **Cost of access to Cirrus is still being finalised, if you wish to
 include Cirrus on an EPSRC grant then please contact the
