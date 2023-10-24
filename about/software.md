@@ -24,7 +24,7 @@ packages maintained by EPCC staff and other experts.
 A list of this software with details of how to access it and run jobs (including
 example job submission scripts) is available in the online documentation, see:
 
-* [Cirrus Online Documentation](http://cirrus.readthedocs.io)
+* [Cirrus Online Documentation](http://docs.cirrus.ac.uk)
 
 We also record instructions for compiling many packages on Cirrus that users may
 find useful in a GitHub repository, see:
@@ -42,11 +42,11 @@ In short:
 * Parallel Programming Models - MPI, OpenMP
 * Libraries - BLAS, LAPACK, BLACS, ScaLAPACK, FFTW, and more
 
-For more information see the [Cirrus Online Documentation](http://cirrus.readthedocs.io).
+For more information see the [Cirrus Online Documentation](http://docs.cirrus.ac.uk).
 
 Job Submission System
 ---------------------
 
 Cirrus uses the Slurm job submission system. More information on running jobs on
-Cirrus and Slurm options can be found in the [Cirrus Online Documentation](http://cirrus.readthedocs.io).
+Cirrus and Slurm options can be found in the [Cirrus Online Documentation](http://docs.cirrus.ac.uk).
 

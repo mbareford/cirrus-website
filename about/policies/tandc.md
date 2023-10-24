@@ -57,7 +57,7 @@ We agree:
 
 -   as far as we reasonably can, to provide a 24-hour service as
     described at
-    [<http://cirrus.readthedocs.io>](http://cirrus.readthedocs.io/), it
+    [<http://cirrus.readthedocs.io>](http://docs.cirrus.ac.uk), it
     being understood that there will be times when the service is
     unavailable, for example as a result of unexpected failures,
     maintenance work or upgrades

@@ -7,8 +7,8 @@ summary: Committed to ensuring our websites are accessible to the widest possibl
 
 ## Accessibility statement for the Cirrus websites
 
-This accessibility statement applies to [https://www.cirrus.ac.uk](https://www.cirrus.ac.uk) and [https://cirrus.readthedocs.io/en/master/
-](https://cirrus.readthedocs.io/en/master/)
+This accessibility statement applies to [https://www.cirrus.ac.uk](https://www.cirrus.ac.uk) and [http://docs.cirrus.ac.uk
+](http://docs.cirrus.ac.uk)
 
 This website is run by EPCC on behalf of the Cirrus service partners. We want as many people as possible to be able to use this website. For example, that means you should be able to:
 

@@ -36,4 +36,4 @@ The public SSH key part will now be added to your login account on the Cirrus sy
 
 # Full details for logging on to Cirrus
 
-Full details for logging on to Cirrus are included in the [documentation pages.](https://cirrus.readthedocs.io/en/main/user-guide/connecting.html)
+Full details for logging on to Cirrus are included in the [documentation pages.](https://docs.cirrus.ac.uk/user-guide/connecting/)
