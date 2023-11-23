@@ -27,7 +27,7 @@ and EPCC can provide both access to HPC resources and also consultancy to
 effectively exploit HPC resources.
 
 For access to Cirrus and EPCC expertise please contact our Commercial Manager, Julien Sindt
-(<j.sindt@epcc.ed.ac.uk>, +44 131 651 3460).
+(<j.sindt@epcc.ed.ac.uk>, +44 (0) 131 651 3461).
 
 Academic Access
 ---------------
