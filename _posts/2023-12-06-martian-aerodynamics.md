@@ -29,7 +29,7 @@ airfoils for such vehicles.
 
 
 <a href="https:www.cirrus.ac.uk/casestudies/cirrus_martian_aerodynamics_AW_LOW.pdf   ">
-<img src="{{ site.baseurl }}/casestudies/martian-aerodynamics.jpg" alt="Martian aerodynamics" title="Click to download" style="width: 30%"   /></a>
+<img src="https:www.cirrus.ac.uk/casestudies/martian-aerodynamics.jpg" alt="Martian aerodynamics" title="Click to download" style="width: 30%"   /></a>
 
 
 
