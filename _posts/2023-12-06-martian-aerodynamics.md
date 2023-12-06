@@ -23,13 +23,13 @@ airfoils for such vehicles.
 
   
 
-[Download the case study](https:www.cirrus.ac.uk/casestudies/cirrus_martian_aerodynamics_AW_LOW.pdf )
+[Download the case study](https://www.cirrus.ac.uk/casestudies/cirrus_martian_aerodynamics_AW_LOW.pdf )
 
 
 
 
-<a href="https:www.cirrus.ac.uk/casestudies/cirrus_martian_aerodynamics_AW_LOW.pdf   ">
-<img src="https:www.cirrus.ac.uk/casestudies/martian-aerodynamics.jpg" alt="Martian aerodynamics" title="Click to download" style="width: 30%"   /></a>
+<a href="https://www.cirrus.ac.uk/casestudies/cirrus_martian_aerodynamics_AW_LOW.pdf   ">
+<img src="https://www.cirrus.ac.uk/casestudies/martian-aerodynamics.jpg" alt="Martian aerodynamics" title="Click to download" style="width: 30%"   /></a>
 
 
 
