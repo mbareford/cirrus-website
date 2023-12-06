@@ -22,13 +22,13 @@ of doing this.
 
   
 
-[Download the case study](https:www.cirrus.ac.uk/casestudies/cirrus_field_boundries_AW_LOW.pdf )
+[Download the case study](https://www.cirrus.ac.uk/casestudies/cirrus_field_boundries_AW_LOW.pdf )
 
 
 
 
-<a href="https:www.cirrus.ac.uk/casestudies/cirrus_field_boundries_AW_LOW.pdf   ">
-<img src="https:www.cirrus.ac.uk/casestudies/field-boundaries.jpg" alt="Field boundaries" title="Click to download" style="width: 30%"   /></a>
+<a href="https://www.cirrus.ac.uk/casestudies/cirrus_field_boundries_AW_LOW.pdf   ">
+<img src="https://www.cirrus.ac.uk/casestudies/field-boundaries.jpg" alt="Field boundaries" title="Click to download" style="width: 30%"   /></a>
 
 
 
