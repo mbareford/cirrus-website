@@ -49,8 +49,7 @@ research falls within EPSRC remit or not.
 | [Access to HPC](access-to-hpc.html) | 1 December 2023 at 4:00pm UK time	 | 17 November 2023 at 4:00pm UK time  |  EPSRC remit only. ARCHER2 or Tier-2 computing resource for a maximum duration of one year.<br>[Call details ](https://www.ukri.org/councils/epsrc/facilities-and-resources/using-epsrc-facilities-and-resources/apply-for-access-to-high-performance-computing-facilities/)| [Tier2 Services TA Form](https://www.ukri.org/wp-content/uploads/2022/07/EPSRC-040722-AccessHighPerformanceComputing-Tier2TechnicalAssessmentForm.docx) |
 |-
 | [Cirrus Driving Test](driving-test.html) | Always Open |  | [Details](driving-test.html) | |
-|-
-| [Access to Cirrus for Covid19 research](covid19.html) |  Open now |  |[Details](covid19.html) |  |
+
 
 ### EPSRC Access
 
