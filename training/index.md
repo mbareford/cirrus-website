@@ -91,7 +91,7 @@ Some courses use ARCHER2, other will use laptops only.  Temporary ARCHER2 machin
 
 | Course | Venue |	Dates |	Register Link |
 | --- | ---      | ---    | --- |
-|  [Building and installing packages with CMake: a hands-on introduction](https://www.archer2.ac.uk/training/courses/231004-cmake-vt/) | Online | Wednesday 4th October 2023 15:00 - 16:00 BST | [Full details and join link](https://www.archer2.ac.uk/training/courses/231004-cmake-vt/) |
+|  None at present |
 
 
 

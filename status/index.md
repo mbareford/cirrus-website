@@ -11,7 +11,6 @@ summary: Up to date status of the Cirrus service
 - [Current Issues](#service-alerts)
 - [Recent Issues](#recently-resolved-service-alerts)
 - [Maintenance](#service-calendar-and-maintenance)
-- [Module Updates](#module-updates)
 - [Service Calendar and Maintenance](#service-calendar-and-maintenance)
 
 
@@ -240,23 +239,6 @@ This section lists recent and upcoming maintenance sessions.
 
 [Previous maintenance logs](history/maintenance)
 
-
-
-## Module Updates 
-
-Module Update following Cirrus Upgrade September 2022 
-  
-| Description | Reason | Advice |
-| ---    | ---  | ---   | 
-| Removed Molpro module and user doc section | No longer functional | No longer centrally supported on Cirrus |
-| Forge to be updated	| v20.0.3 found to have security flaw | Pending. Newer version will be installed as a replacement. |
-| Updated mpi4py | All the mpi4py modules are tied to a particular version of python, 3.8.12. More flexibility is required such that users can run python-based parallel code using different python versions. | The mpi4py modules have been replaced by a suite of python modules: python/3.8.13, python/3.8.13-gpu, python/3.9.12, and python/3.9.12-gpu. The gpu modules load a miniconda3 python environment containing mpi4py 3.1.3 linked with OpenMPI 4.1.x and CUDA 11.6; whereas the cpu modules (no -gpu suffix) load a python environment containing mpi4py 3.1.3 linked with HPE MPT 2.25. (The python/3.8.13-gpu module is linked with OpenMPI 4.1.2 and the python/3.9.12-gpu module is linked with OpenMPI 4.1.4.) |
-| Updated horovod | Updated | Module version 0.24.2-gpu has been replaced by 0.25.0-gpu. |
-| Updated pytorch | Updated | Module version 1.11.0-gpu has been replaced by 1.12.0-gpu. |
-| Updated tensorflow | Updated | Module version 2.8.0-gpu has been replaced by 2.9.1-gpu. |
-| Updated scalasca	| Version 2.5 no longer functional. | Please use 2.6-gcc8-mpt225 or 2.6-intel19-mpt225 instead. |
-| Removed spack/2020 module | Not used. | Not required. Please contact the service desk if Spack installation is needed. |
-| Updated tmux | Version 3.1b no longer functional. | Version 3.3a provided as replacement. |
 
 
 ## At Risk Maintenance Sessions

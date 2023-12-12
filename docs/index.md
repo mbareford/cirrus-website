@@ -11,9 +11,8 @@ summary: Find out how to make best use of Cirrus
 ## SAFE Documentation for Cirrus
 
 SAFE is the web interface used for account and resource management on Cirrus.
-The documentation for Cirrus users using SAFE is also on Readthedocs:
 
-* [Cirrus SAFE Documentation (as part of the EPSRC Tier-2 SAFE)](http://tier2-safe.readthedocs.io)
+* [Cirrus SAFE Documentation ](https://epcced.github.io/safe-docs/)
 
 ## Can I contribute to the documentation?
 
