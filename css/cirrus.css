@@ -46,3 +46,36 @@ a {
   color: #3277b3;
 }
 
+
+/*
+ * Updated nav bar 
+ */
+
+.navbar-default .navbar-brand {
+  color:#111
+}
+
+.navbar-default .navbar-text {
+  color:#000
+}
+.navbar-default .navbar-nav>li>a {
+  color:#000;
+}
+.navbar-default {
+   background-color:transparent;  
+   border-color:transparent;
+}
+
+.navbar-default .navbar-nav>li>a:hover,
+.navbar-default .navbar-nav>li>a:focus {
+  color:#000;
+  background-color:transparent
+}
+
+
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:hover,
+.navbar-default .navbar-nav>.active>a:focus {
+  color:#000;
+  background-color:#cffdfa;
+}
