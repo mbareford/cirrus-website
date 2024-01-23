@@ -1,0 +1,42 @@
+- title: "About"
+  url: "/about/"
+  side: left
+    
+- title: "News"
+  url: "/news/"
+  side: left
+
+- title: Support
+  url: "/support/"
+  side: left
+  
+- title: Access
+  url: "/access/"
+  side: left
+
+- title: Documentation
+  url: "/docs/"
+  side: left
+  sublinks:
+  - title: Cirrus User Guide
+    url: "/docs/"
+  - title: "Cirrus User Documentation Site"
+    url: "https://docs.cirrus.ac.uk/"
+    external: "True"
+  - title: "SAFE User Guide"
+    url: "https://epcced.github.io/safe-docs/"
+    external: "True"
+  
+- title: "Status"
+  url: "/status/"
+  side: left
+
+- title: "Training"
+  url: "/training/"
+  side: left
+  
+- title: "SAFE Login"
+  url: "https://safe.epcc.ed.ac.uk/"
+  external: "True"
+  side: left
+  
