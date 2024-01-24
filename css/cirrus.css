@@ -228,3 +228,33 @@ header p.tiny-status .service-up {
 --*/	
 
 
+p.search {
+  display: block;
+  float: right;
+  font-size: 8pt;
+  text-transform: uppercase;
+  color: #000;
+}
+
+table.gsc-search-box {
+  border: none;
+}
+
+
+
+
+p.tiny-status {
+  display: block;
+  float: right;
+  font-size: 8pt;
+  text-transform: uppercase;
+  color: #000;
+}
+
+p.tiny-status .service-down {
+  color: #88471B;
+}
+
+p.tiny-status .service-up {
+  color: #498136;
+}

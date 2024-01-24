@@ -27,16 +27,11 @@
     url: "https://epcced.github.io/safe-docs/"
     external: "True"
   
-- title: "Status"
-  url: "/status/"
-  side: left
+
 
 - title: "Training"
   url: "/training/"
   side: left
   
-- title: "SAFE Login"
-  url: "https://safe.epcc.ed.ac.uk/"
-  external: "True"
-  side: left
+
   
