@@ -1,25 +1,36 @@
 ---
 layout: section
 title: Case Studies
-summary: Highlighting use cases of Cirrus
+summary: Highlights from some of the research carried out on Cirrus
+banner: web_banners_02.jpg
 ---
 
-## Cirrus Industrial Case Studies
-
-Examples of where Cirrus has helped with Industrial Customers :
-
-* [Engys](engys.html)
-* [GexCon](gexcon.html)
-* [IrishMarine](irishmarine.html)
-
-Examples of where Cirrus has helped with Academic Users :
-
-* [Tidal Flow](tidal_flow.html)
-* [NEMO](nemo.html)
 
 
+{% for casestudies in site.casestudies reversed %}
+<div class="post-area">
+  <a href="{{ casestudies.url | prepend: site.baseurl }}" class="bold">{{ casestudies.title }}</a>
+  <p class="post-date">{{ casestudies.date | date_to_long_string }}
 
-## Contact Us
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  {{ casestudies.author }}
 
-If you are interesated in creating a case study highlighting your work on Cirrus then please do not hesitate to
-[contact the support team](../support/).
+<!--
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      {% for tag in post.tags %}
+        {% capture tag_name %}{{ tag }}{% endcapture %}
+        <a href="/about/news/{{ tag_name }}" ><code  style="font-size:15px;"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+      {% endfor %}   
+-->
+      
+  </p>
+
+  <p>
+    {{ casestudies.content | strip_html | truncatewords: 50 }}
+  </p>
+</div>
+{% endfor %}
+
+
+
+
