@@ -44,5 +44,8 @@ collections:
   courses:
     output: true
     permalink: /training/courses/:path/    
+  casestudies: 
+    output: true
+    permalink: /casestudies/:path/    
     
 future: true

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: casestudies
 title: Optimization of rotor blades for Martian Helicopters
 date: 2023-12-06 09:00:00
 author: Prof. Peter Vincent (Imperial College London)

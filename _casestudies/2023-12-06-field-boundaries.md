@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: casestudies
 title: Agricultural field boundary delineation&colon; enabling sustainable land stewardship
 date: 2023-12-06 08:50:00
 author: Dr. Simon Fraval (University of Edinburgh)

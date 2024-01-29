@@ -2,9 +2,7 @@
   url: "/about/"
   side: left
     
-- title: "News"
-  url: "/news/"
-  side: left
+
 
 - title: Support
   url: "/support/"
@@ -28,10 +26,15 @@
     external: "True"
   
 
-
 - title: "Training"
   url: "/training/"
   side: left
   
-
+- title: Science
+  url: "/science/"
+  side: left
+  sublinks:
+  - title: "Case Studies"
+    url: "/casestudies/"
+    side: left
   
