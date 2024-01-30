@@ -1,8 +1,15 @@
 - title: "About"
   url: "/about/"
   side: left
-    
-
+  sublinks:
+  - title: About Cirrus
+    url: "/about/"
+  - title: Cirrus Hardware
+    url: "/about/hardware/"    
+  - title: Cirrus Software
+    url: "/about/software/"  
+  - title: Cirrus calendar
+    url: "/status/calendar"
 
 - title: Support
   url: "/support/"
@@ -36,5 +43,5 @@
   sublinks:
   - title: "Case Studies"
     url: "/casestudies/"
-    side: left
+
   
