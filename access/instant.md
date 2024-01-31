@@ -12,7 +12,7 @@ access to Cirrus for a limited number of Core-h over a six month period.
 This mode of access should give new users the opportunity to test Cirrus
 for their purposes and work towards a fully peer reviewed application,
 either via a [standard grant](grant.html) or via
-[Open Access calls](noa.html). An extension will only be granted
+[Access to HPC calls](access-to-hpc). An extension will only be granted
 in exceptional cases.
 
 **Note:** Only one Instant Access project is available to each person.
