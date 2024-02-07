@@ -13,7 +13,7 @@ with links to the appropriate sections of the [Cirrus Documentation](../docs/).
 Operating System
 ----------------
 
-Cirrus login and compute nodes run the CentOS 7 Linux operating system.
+Cirrus login and compute nodes run the CentOS 8 Linux operating system.
 
 Scientific Software
 -------------------
@@ -38,8 +38,8 @@ The application development environment includes a number of different compilers
 parallel programming models, numerical/IO libraries, debuggers and profiling tools.
 In short:
 
-* Compilers - GNU, Intel
-* Parallel Programming Models - MPI, OpenMP
+* Compilers - GNU, Intel, NVIDIA
+* Parallel Programming Models - MPI, OpenMP, SYCL, CUDA, OpenACC
 * Libraries - BLAS, LAPACK, BLACS, ScaLAPACK, FFTW, and more
 
 For more information see the [Cirrus Online Documentation](http://docs.cirrus.ac.uk).

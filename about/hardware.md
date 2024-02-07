@@ -84,24 +84,16 @@ IB fabric and all Lustre file system IO traverses the IB fabric.
 File systems and Data Infrastructure
 -----------------------------------
 
-There is currently a single file system available on Cirrus: /lustre is
-a Lustre parallel file system desgined to give high read/write bandwidth
-for parallel calculations running on Cirrus.
+There are a number of file systems available on Cirrus:
 
-The Lustre file system has  a total of 406 TiB available.
-The cluster login and compute nodes mount the storage as /lustre, and
-all home directories are available on all nodes.
+* 1.5 PiB Ceph distributed file system for critical data storage. Mounted on all login nodes. Backed up.
+* 24 PiB HPE E1000 ClusterStor Lustre parallel file system provides
+  high performance data access with high capacity. Mounted on all login and compute nodes. Not backed up.
+* 233 TiB HPE high performance solid state storage. Mounted on all login and compute nodes. Not backed up.
 
 The compute nodes are diskless. Each node boots from a cluster
 management noded called the Rack Leader and NFS mounts the root file
 system from this management node.
-
-*Note:* There are currently no backups of data on Cirrus as backing up
-the whole Lustre file system would adversely affect the performance of
-write access for simulations. The nature of the Lustre parallel file
-system means that there is data resiliance in the case of failures of
-individual hardware components. However, we strongly advise that you
-keep copies of any critical data on different systems.
 
 Parallel I/O
 ------------

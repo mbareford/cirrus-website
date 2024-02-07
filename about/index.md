@@ -14,8 +14,8 @@ You should also tag outputs with the keyword Cirrus@EPCC.
 
 ## Technology
 
-The facility is based around a 280 node HPE/SGI 8600 HPC system with a DDN Lustre
-file system. The HPC system runs the Red Hat Enterprise Linux distribution and has a 
+The facility is based around a 280 node HPE/SGI 8600 HPC system with HPE ClusterStor Lustre
+and Ceph file systems. The HPC system runs the Red Hat Enterprise Linux distribution and has a 
 range of software, liraries and tools available. See the following pages
 for more information:
 
