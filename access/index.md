@@ -46,7 +46,7 @@ research falls within EPSRC remit or not.
 |-
 | [Grant Access](grant.html) | Always Open | Always Open | | [Grant Access TA Form (Word)](ta/Cirrus-TA-Grant-form.docx) |
 |-
-| [Access to HPC](access-to-hpc.html) | 1 December 2023 at 4:00pm UK time	 | 17 November 2023 at 4:00pm UK time  |  EPSRC remit only. ARCHER2 or Tier-2 computing resource for a maximum duration of one year.<br>[Call details ](https://www.ukri.org/councils/epsrc/facilities-and-resources/using-epsrc-facilities-and-resources/apply-for-access-to-high-performance-computing-facilities/)| [Tier2 Services TA Form](https://www.ukri.org/wp-content/uploads/2022/07/EPSRC-040722-AccessHighPerformanceComputing-Tier2TechnicalAssessmentForm.docx) |
+| [Access to HPC](access-to-hpc.html) | 23 April 2024 at 4:00pm UK time	 | N/A  |  Any UKRI research remit. National Tier-2 computing resource for a maximum duration of 10 months.<br>[Call details ](https://www.ukri.org/opportunity/access-to-high-performance-computing-facilities-2024/)| N/A |
 |-
 | [Cirrus Driving Test](driving-test.html) | Always Open |  | [Details](driving-test.html) | |
 
@@ -58,9 +58,14 @@ different access routes (please follow the links for further information):
 
 * [Instant Access](instant.html): small amounts of time and storage space to explore use of Cirrus for your research
 * [Grant Access](grant.html): Larger amounts of time and storage for lifetime of research grant
-* [Access to HPC](access-to-hpc.html): Provides an open and relatively flexible route to computational support.
 
-In all cases, you should complete a Cirrus Technical Assessment form that includes a costing for the value of using the facility or resource, to include in your application. This short form allows our technical experts to ensure that your project will get the most out of access to Cirrus and will help us to make sure that Cirrus can support the research you wish to undertake.  
+In both cases, you should complete a Cirrus Technical Assessment form that includes a costing for the value of using the facility or resource, to include in your application. This short form allows our technical experts to ensure that your project will get the most out of access to Cirrus and will help us to make sure that Cirrus can support the research you wish to undertake.  
+
+### UKRI Access
+
+Access to HPC calls enable access to computational resource only for research from any UKRI remit.
+
+* [Access to HPC](access-to-hpc.html): Provides an open and relatively flexible route to computational support.
 
 ### Access for academics at Scottish institutions
 
