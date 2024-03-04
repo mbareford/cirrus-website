@@ -46,7 +46,7 @@ research falls within EPSRC remit or not.
 |-
 | [Grant Access](grant.html) | Always Open | Always Open | | [Grant Access TA Form (Word)](ta/Cirrus-TA-Grant-form.docx) |
 |-
-| [Access to HPC](access-to-hpc.html) | TBC | TBC  |  EPSRC remit only. ARCHER2 or Tier-2 computing resource for a maximum duration of one year.<br>[Call details ](https://www.ukri.org/councils/epsrc/facilities-and-resources/using-epsrc-facilities-and-resources/apply-for-access-to-high-performance-computing-facilities/)| [Tier2 Services TA Form](https://www.ukri.org/wp-content/uploads/2022/07/EPSRC-040722-AccessHighPerformanceComputing-Tier2TechnicalAssessmentForm.docx) |
+| [Access to HPC](access-to-hpc.html) |    23 April 2024 4:00pm UK time	 | A Technical Assessment from the service you are applying to will only be required should your application be successful.  |  EPSRC remit only. ARCHER2 or Tier-2 computing resource for a maximum duration of one year.<br>[Call details ](https://www.ukri.org/opportunity/access-to-high-performance-computing-facilities-2024/)| [Tier2 Services TA Form](https://www.ukri.org/wp-content/uploads/2022/07/EPSRC-040722-AccessHighPerformanceComputing-Tier2TechnicalAssessmentForm.docx) |
 |-
 | [Cirrus Driving Test](driving-test.html) | Always Open |  | [Details](driving-test.html) | |
 
