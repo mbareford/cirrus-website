@@ -46,7 +46,7 @@ research falls within EPSRC remit or not.
 |-
 | [Grant Access](grant.html) | Always Open | Always Open | | [Grant Access TA Form (Word)](ta/Cirrus-TA-Grant-form.docx) |
 |-
-| [Access to HPC](access-to-hpc.html) | 23 April 2024 at 4:00pm UK time	 | N/A  |  Any UKRI research remit. National Tier-2 computing resource for a maximum duration of 10 months.<br>[Call details ](https://www.ukri.org/opportunity/access-to-high-performance-computing-facilities-2024/)| N/A |
+| [Access to HPC](access-to-hpc.html) | 23 April 2024 at 4:00pm UK time	 | N/A  |  Any UKRI research remit. National Tier-2 computing resource for a maximum duration of 9 months.<br>[Call details ](https://www.ukri.org/opportunity/access-to-high-performance-computing-facilities-2024/)| N/A |
 |-
 | [Cirrus Driving Test](driving-test.html) | Always Open |  | [Details](driving-test.html) | |
 
