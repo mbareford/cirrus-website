@@ -9,7 +9,7 @@ Apply for Access to HPC
 
 Provides an open and relatively flexible route to computational support for projects in an UKRI remit. You can access national Tier-2 HPC systems. Projects can be up to 10 months in length. 
 
-This call is for researchers to apply for computational resource from EPSRC funded High Performance Computing (HPC) services to support research projects from across any UKRI research remit. It is the successor to the ARCHER RAP and Tier-2 Open access calls which ran prior to 2020. Projects can run for up to 10 months. This call usually opens twice a year.
+This call is for researchers to apply for computational resource from EPSRC funded High Performance Computing (HPC) services to support research projects from across any UKRI research remit. It is the successor to the ARCHER RAP and Tier-2 Open access calls which ran prior to 2020. Projects can run for up to 9 months. This call usually opens twice a year.
 
 The services available are most of the national Tier-2 HPC service.
 
