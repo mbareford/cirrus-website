@@ -8,7 +8,7 @@ This page describes what happens when an account or project is no longer
 required on Cirrus, or a user leaves a project. These situations are
 most likely to come about during one of the following three scenarios:
 
-1.  The retirement of project (usually one month after project end)
+1.  The retirement of project (usually one month after project end for projects of up to 12 months duration, two months for longer projects)
 2.  A Principle Investigator (PI) tidying up a project requesting the removal of user(s) no
     longer working on the project
 3.  A user wishing his/her own account to be removed
@@ -36,4 +36,4 @@ is intended to cover the situation where an account owner is no longer in contac
 the project and cannot request the transfer themselves.
 
 When a project is due to end, the PI will receive notification of the closure of the project 
-and its accounts one month before the accounts are closed and cleaned. 
+and its accounts one month (or two months for projects of greater than 12 months duration) before the accounts are closed and cleaned. 
