@@ -42,7 +42,9 @@ research falls within EPSRC remit or not.
 | Call (link) | Closing Date | TA Receipt Deadline | Notes | TA Form Link |
 |-
 | [Instant Access](instant.html) | Always Open | Always Open | | [Instant Access TA Form (Word)](ta/Cirrus-TA-Instant-form.docx) |
+|-
 | [Director Time](directortime.html) | Always Open | Always Open | University of Edinburgh researchers, Any Remit | [Director's Time TA form](ta/Cirrus-TA-DirectorTime-form.docx) |
+|-
 | [Scottish Academic Access](scottish.html) | Always Open | Always Open | Scottish Institution Only, Any Remit | [Scottish Academic Access TA Form (Word)](ta/Cirrus-TA-ScotAccess-form.docx) |
 |-
 | [Grant Access](grant.html) | Always Open | Always Open | | [Grant Access TA Form (Word)](ta/Cirrus-TA-Grant-form.docx) |
