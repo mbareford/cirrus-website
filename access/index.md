@@ -42,6 +42,7 @@ research falls within EPSRC remit or not.
 | Call (link) | Closing Date | TA Receipt Deadline | Notes | TA Form Link |
 |-
 | [Instant Access](instant.html) | Always Open | Always Open | | [Instant Access TA Form (Word)](ta/Cirrus-TA-Instant-form.docx) |
+| [Director Time](directortime.html) | Always Open | Always Open | University of Edinburgh researchers, Any Remit | [Director Time TA form)](ta/Cirrus-TA-DirectorTime-form.docx) |
 | [Scottish Academic Access](scottish.html) | Always Open | Always Open | Scottish Institution Only, Any Remit | [Scottish Academic Access TA Form (Word)](ta/Cirrus-TA-ScotAccess-form.docx) |
 |-
 | [Grant Access](grant.html) | Always Open | Always Open | | [Grant Access TA Form (Word)](ta/Cirrus-TA-Grant-form.docx) |
@@ -66,6 +67,14 @@ In both cases, you should complete a Cirrus Technical Assessment form that inclu
 Access to HPC calls enable access to computational resource only for research from any UKRI remit.
 
 * [Access to HPC](access-to-hpc.html): Provides an open and relatively flexible route to computational support.
+
+### Access for University of Edinburgh Reseachers 
+
+If you are a researcher at the University of Edinburgh you can get access to Cirrus for your research - either on a trial basis
+to test the service for your research or on a larger scale for the use of Cirrus in a research programme. There is
+no restriction on research area remit. For both trial and larger access, applicants
+should use the the Director Time assessment form. For more information see the 
+[Director Time page](directortime.html).
 
 ### Access for academics at Scottish institutions
 
