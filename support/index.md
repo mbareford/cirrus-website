@@ -39,6 +39,10 @@ when solving future problems, and when writing documentation, etc. The SAFE
 database is protected by the
 [Cirrus Personal Data and Privacy Policy](/about/policies/privacy.html)
 
+## Cirrus Service Status
+
+[The status page](/status) show details of the current system load, any issues and maintenance sessions.
+
 
 
 
