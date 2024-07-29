@@ -4,6 +4,8 @@
   sublinks:
   - title: About Cirrus
     url: "/about/"
+  - title: Cirrus Status
+    url: "/status/"
   - title: Cirrus Hardware
     url: "/about/hardware.html"    
   - title: Cirrus Software
