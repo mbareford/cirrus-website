@@ -4,11 +4,15 @@ title: Access
 summary: Get access to Cirrus
 ---
 
+
+
 Access Cirrus
 =============
 
 Information on how to get access to Cirrus. How you get access depends on 
 if you are working in industry or academia and how much resource you require.
+
+The EPSRC funding for the Cirrus will end on 31st March 2025. EPCC plan on operating the Cirrus service until 30th June 2025 in an at-risk, unsupported mode. If there are any major system issues between 1st April and 30th June, we may need to end the service during this period. 
 
 Resource Units
 --------------
