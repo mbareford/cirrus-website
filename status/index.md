@@ -172,7 +172,7 @@ This table lists resolved service alerts from the past 30 days.
 
 ## Cirrus Service end
 
-The EPSRC funding for the Cirrus will end on 31st March 2025. EPCC plan on operating the Cirrus service until 30th June 2025 in an at-risk, unsupported mode. If there are any major system issues between 1st April and 30th June, we may need to end the service during this period. 
+The EPSRC funding for the Cirrus service will end on 31st March 2025. EPCC plan on operating the Cirrus service until 30th June 2025 in an at-risk, unsupported mode. If there are any major system issues between 1st April and 30th June, we may need to end the service during this period. 
 
 
 ## Service Calendar and Maintenance
