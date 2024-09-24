@@ -98,7 +98,7 @@ This site was developed with accessibility in mind and we will continue to revie
 
 This statement was prepared on 18th August 2020. It was last reviewed on 24th September 2024.
 
-This website was last tested on 24th September 2024. The test was carried out by us using [WAVE](https://wave.webaim.org/) and [LittleForest](https://littleforest.co.uk/).
+This website was last tested on 24th September 2024. The test was carried out by us using [WAVE](https://wave.webaim.org/).
 
-We sampled pages that included the greatest range of content type and used LittleForest to scan the whole site.
+We sampled pages that included the greatest range of content type.
 
