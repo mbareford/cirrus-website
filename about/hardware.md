@@ -13,10 +13,11 @@ compute nodes and 2 of these contain 4 GPU accelerators.
 
 Cirrus Phase II saw the addition of 36 HPE Plainfield Blades each with two Intel 
 Xeon processors and four NVIDIA v100 GPUs. A 512 TB (raw) of NVMe fast storage for 
-data intensive applications on Cirrus was also added. 
+data-intensive applications on Cirrus was also added. 
 
 There are 3 login nodes that share a common software environment and
-file system with the compute nodes.
+file system with the compute nodes. In addition, there are 4 Intel Xeon 8280L in the backend with 3TB of RAM
+available as a fraction or as a whole node.  There is a max of 2 jobs submitted and only 1 running per user.
 
 ### Compute Nodes
 
