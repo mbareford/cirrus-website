@@ -52,7 +52,7 @@ research falls within EPSRC remit or not.
 |-
 | [Grant Access](grant.html) | Closed | Closed | | [Grant Access TA Form (Word)](ta/Cirrus-TA-Grant-form.docx) |
 |-
-| [Access to HPC](access-to-hpc.html) | No Open Call	 | N/A  |  UKRI, Any Remit | N/A |
+| [Access to HPC](access-to-hpc.html) | No Open Call	 |  |  UKRI, Any Remit |  |
 |-
 | [Cirrus Driving Test](driving-test.html) | Always Open |  | [Details](driving-test.html) | |
 
