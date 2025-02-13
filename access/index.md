@@ -9,10 +9,9 @@ summary: Get access to Cirrus
 Access Cirrus
 =============
 
-Information on how to get access to Cirrus. How you get access depends on 
-if you are working in industry or academia and how much resource you require.
+Information on how to get access to Cirrus. How you get access depends on if you are working in industry or academia and how much resource you require.
 
-The EPSRC funding for the Cirrus service will end on 31st March 2025. EPCC plan on operating the Cirrus service until 31st August 2025 in an at-risk, unsupported mode. If there are any major system issues between 1st April and 31st August, we may need to end the service during this period. 
+The EPSRC funding for the Cirrus service will end on 31st March 2025. EPCC plan on operating the Cirrus service until 31st August 2025 in an at-risk, unsupported mode. If there are any major system issues between 1st April and 31st August, we may need to end the service during this period. We do not plan on on boarding new projects during this time. 
 
 Resource Units
 --------------
@@ -45,15 +44,15 @@ research falls within EPSRC remit or not.
 |-
 | Call (link) | Closing Date | TA Receipt Deadline | Notes | TA Form Link |
 |-
-| [Instant Access](instant.html) | Always Open | Always Open | | [Instant Access TA Form (Word)](ta/Cirrus-TA-Instant-form.docx) |
+| [Instant Access](instant.html) | Closed | Closed | | [Instant Access TA Form (Word)](ta/Cirrus-TA-Instant-form.docx) |
 |-
 | [Director Time](directortime.html) | Always Open | Always Open | University of Edinburgh researchers, Any Remit | [Director's Time TA form](ta/Cirrus-TA-DirectorTime-form.docx) |
 |-
-| [Scottish Academic Access](scottish.html) | Always Open | Always Open | Scottish Institution Only, Any Remit | [Scottish Academic Access TA Form (Word)](ta/Cirrus-TA-ScotAccess-form.docx) |
+| [Scottish Academic Access](scottish.html) | Closed | Closed | Scottish Institution Only, Any Remit | [Scottish Academic Access TA Form (Word)](ta/Cirrus-TA-ScotAccess-form.docx) |
 |-
-| [Grant Access](grant.html) | Always Open | Always Open | | [Grant Access TA Form (Word)](ta/Cirrus-TA-Grant-form.docx) |
+| [Grant Access](grant.html) | Closed | Closed | | [Grant Access TA Form (Word)](ta/Cirrus-TA-Grant-form.docx) |
 |-
-| [Access to HPC](access-to-hpc.html) | 23 April 2024 at 4:00pm UK time	 | N/A  |  Any UKRI research remit. National Tier-2 computing resource for a maximum duration of 9 months.<br>[Call details ](https://www.ukri.org/opportunity/access-to-high-performance-computing-facilities-2024/)| N/A |
+| [Access to HPC](access-to-hpc.html) | No Open Call	 | N/A  |  UKRI, Any Remit | N/A |
 |-
 | [Cirrus Driving Test](driving-test.html) | Always Open |  | [Details](driving-test.html) | |
 
