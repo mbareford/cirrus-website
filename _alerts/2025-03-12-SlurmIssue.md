@@ -1,7 +1,9 @@
+---
 status: Ongoing
 type: Service Alert
 start_date: 2025-03-12 08:53
 end_date: 
 scope: Issues with the slurm controller have been observed
-impact: Jobs will not start on Cirrus
-reason: The reason for this is being investigated.
+impact: Users can connect to the login node but jobs will not start on the compute nodes. Users will not be able to issue slurm commands.  
+reason: Systems team are investigating the issue.
+---
