@@ -1,5 +1,5 @@
 ---
-status: On-going
+status: Ongoing
 type: At-Risk
 start_date: 2025-05-05 09:00
 end_date: 2025-05-05
