@@ -11,7 +11,7 @@ Access Cirrus
 
 Information on how to get access to Cirrus. How you get access depends on if you are working in industry or academia and how much resource you require.
 
-The EPSRC funding for the Cirrus service will end on 31st March 2025. EPCC plan on operating the Cirrus service until 31st August 2025 in an at-risk, unsupported mode. If there are any major system issues between 1st April and 31st August, we may need to end the service during this period. We do not plan on on boarding new projects during this time. 
+The EPSRC funding for the Cirrus service will end on 31st March 2025. EPCC plan on operating the Cirrus service until end of 2025 in an at-risk, unsupported mode. If there are any major system issues between 1st April and end of August, we may need to end the service during this period. We do not plan on on boarding new projects during this time. 
 
 Resource Units
 --------------
@@ -46,15 +46,16 @@ research falls within EPSRC remit or not.
 |-
 | [Instant Access](instant.html) | Closed | Closed | | [Instant Access TA Form (Word)](ta/Cirrus-TA-Instant-form.docx) |
 |-
-| [Director Time](directortime.html) | Always Open | Always Open | University of Edinburgh researchers, Any Remit | [Director's Time TA form](ta/Cirrus-TA-DirectorTime-form.docx) |
+| [Director Time](directortime.html) | Closed | Closed | University of Edinburgh researchers, Any Remit | [Director's Time TA form](ta/Cirrus-TA-DirectorTime-form.docx) |
 |-
 | [Scottish Academic Access](scottish.html) | Closed | Closed | Scottish Institution Only, Any Remit | [Scottish Academic Access TA Form (Word)](ta/Cirrus-TA-ScotAccess-form.docx) |
 |-
 | [Grant Access](grant.html) | Closed | Closed | | [Grant Access TA Form (Word)](ta/Cirrus-TA-Grant-form.docx) |
 |-
-| [Access to HPC](access-to-hpc.html) | No Open Call	 |  |  UKRI, Any Remit |  |
+| [Access to HPC](access-to-hpc.html) | No Open Call	|  |  UKRI, Any Remit |  |
 |-
 | [Cirrus Driving Test](driving-test.html) | Always Open |  | [Details](driving-test.html) | |
+
 
 
 ### EPSRC Access
