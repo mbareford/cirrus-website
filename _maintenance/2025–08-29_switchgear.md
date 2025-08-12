@@ -2,7 +2,7 @@
 status: Planned
 type: Full 
 start_date: 2025-08-29 09:00
-end_date: 2025-09-18 17:00
+end_date: 2025-09-18 18:00
 quarter: Q3 2025
 system: Full Cirrus system 
 impact: Users will not be able to connect to Cirrus and will not be able to access data on any of the Cirrus file systems.  The system will be drained of jobs ahead of the power outage and jobs will not run during this period. Any queued jobs will remain in the queue during the outage and jobs will start once the service is returned. SAFE and the Cirrus website will be available. 
