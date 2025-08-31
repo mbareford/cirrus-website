@@ -87,13 +87,12 @@ File systems and Data Infrastructure
 
 There are a number of file systems available on Cirrus:
 
-* 1.5 PiB Ceph distributed file system for critical data storage. Mounted on all login nodes. Backed up.
-* 24 PiB HPE E1000 ClusterStor Lustre parallel file system provides
+* 1 PB Ceph distributed file system for critical data storage. Mounted on all login nodes. Backed up.
+* 1 PB HPE E1000 ClusterStor Lustre parallel file system provides
   high performance data access with high capacity. Mounted on all login and compute nodes. Not backed up.
 * 233 TiB HPE high performance solid state storage. Mounted on all login and compute nodes. Not backed up.
 
-The compute nodes are diskless. Each node boots from a cluster
-management noded called the Rack Leader and NFS mounts the root file
+The compute nodes are diskless. Each node boots from a cluster management node called the Rack Leader and NFS mounts the root file
 system from this management node.
 
 Parallel I/O
