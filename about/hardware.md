@@ -4,6 +4,12 @@ title: Cirrus Hardware
 summary:
 ---
 
+New Hardware arriving soon: HPE EX4000 
+---------------------------------------
+
+The Cirrus service will soon have new hardware. The old hardware will continue to run until we can transition to the new hardware. More details will be available soon. 
+
+
 SGI/HPE 8600 Cluster
 --------------------
 
