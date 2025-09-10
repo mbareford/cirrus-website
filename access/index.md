@@ -13,6 +13,13 @@ Information on how to get access to Cirrus. How you get access depends on if you
 
 The EPSRC funding for the Cirrus service  ended on 31st March 2025. EPCC plan on operating the Cirrus service until end of 2025 in an at-risk, unsupported mode. If there are any major system issues between 1st April and end of August, we may need to end the service during this period. We do not plan on on boarding new projects during this time. 
 
+Over the next few months, the latest hardware refresh of the Cirrus HPC service will provide new resources for CPU-based HPC use and increase the flexibility of the service. Cirrus will also continue to be one of the UKRI Tier-2 National HPC Services available to researchers across all research domains funded by UKRI.
+
+The core of the updated Cirrus service will be provided by an HPE Cray EX4000 system with over seventy thousand CPU cores connected by the high-performance Slingshot 11 interconnect. Core compilers and computational libraries will be available through the HPE Cray Programming Environment with a range of research software installed on top of this by EPCC experts.
+
+The new Cirrus hardware is expected to be available to researchers before the end of 2025.
+
+
 Resource Units
 --------------
 
@@ -52,7 +59,7 @@ research falls within EPSRC remit or not.
 |-
 | [Grant Access](grant.html) | Closed | Closed | | [Grant Access TA Form (Word)](ta/Cirrus-TA-Grant-form.docx) |
 |-
-| [Access to HPC](access-to-hpc.html) | No Open Call	|  |  UKRI, Any Remit |  |
+| [Access to HPC](access-to-hpc.html) |     6 November 2025 4:00pm UK time		| No TA form required at application stage |  UKRI, Any Remit<br>[Full details on UKRI site](https://www.ukri.org/opportunity/access-to-high-performance-computing-facilities-autumn-2025/) |  |
 |-
 | [Cirrus Driving Test](driving-test.html) | Always Open |  | [Details](driving-test.html) | |
 
