@@ -11,9 +11,9 @@ Access Cirrus
 
 Information on how to get access to Cirrus. How you get access depends on if you are working in industry or academia and how much resource you require.
 
-The EPSRC funding for the Cirrus service  ended on 31st March 2025. EPCC plan on operating the Cirrus service until end of 2025 in an at-risk, unsupported mode. If there are any major system issues between 1st April and end of August, we may need to end the service during this period. We do not plan on on boarding new projects during this time. 
+EPCC continues to run the current Cirrus service on the existing hardware in an unsupported, at-risk mode. Users can apply for access using the mechanisms below and we are pleased to announce that the new Cirrus hardware will be avaiable in the latest Access to HP Call. We plan on tranistioning to the new hardware in Q4 2025. 
 
-Over the next few months, the latest hardware refresh of the Cirrus HPC service will provide new resources for CPU-based HPC use and increase the flexibility of the service. Cirrus will also continue to be one of the UKRI Tier-2 National HPC Services available to researchers across all research domains funded by UKRI.
+The latest hardware refresh of the Cirrus HPC service will provide new resources for CPU-based HPC use and increase the flexibility of the service. Cirrus continues to be one of the UKRI Tier-2 National HPC Services available to researchers across all research domains funded by UKRI.
 
 The core of the updated Cirrus service will be provided by an HPE Cray EX4000 system with over seventy thousand CPU cores connected by the high-performance Slingshot 11 interconnect. Core compilers and computational libraries will be available through the HPE Cray Programming Environment with a range of research software installed on top of this by EPCC experts.
 
@@ -53,9 +53,9 @@ research falls within EPSRC remit or not.
 |-
 | [Instant Access](instant.html) | Open | Open| | [Instant Access TA Form (Word)](ta/Cirrus-TA-Instant-form.docx) |
 |-
-| [Director Time](directortime.html) | Closed | Closed | University of Edinburgh researchers, Any Remit | [Director's Time TA form](ta/Cirrus-TA-DirectorTime-form.docx) |
+| [Director Time](directortime.html) | Open | Open | University of Edinburgh researchers, Any Remit | [Director's Time TA form](ta/Cirrus-TA-DirectorTime-form.docx) |
 |-
-| [Scottish Academic Access](scottish.html) | Closed | Closed | Scottish Institution Only, Any Remit | [Scottish Academic Access TA Form (Word)](ta/Cirrus-TA-ScotAccess-form.docx) |
+| [Scottish Academic Access](scottish.html) | Open | Open | Scottish Institution Only, Any Remit | [Scottish Academic Access TA Form (Word)](ta/Cirrus-TA-ScotAccess-form.docx) |
 |-
 | [Grant Access](grant.html) | Closed | Closed | | [Grant Access TA Form (Word)](ta/Cirrus-TA-Grant-form.docx) |
 |-
