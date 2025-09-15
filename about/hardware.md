@@ -7,7 +7,7 @@ summary:
 HPE Cray EX4000  
 ---------------
 
-New Cirrus hardware based will be installed in Q3 2025 to replace the end-of-life components that will be
+New Cirrus hardware based will be installed in Q4 2025 to replace the end-of-life components that will be
 retired once the new system is up and running.
 
 The new hardware will be provided by an HPE Cray EX4000 system with 73,728 cores in 256 compute nodes. There
