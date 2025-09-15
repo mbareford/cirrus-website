@@ -11,7 +11,7 @@ New Cirrus hardware based will be installed in Q4 2025 to replace the end-of-lif
 retired once the new system is up and running.
 
 The new hardware will be provided by an HPE Cray EX4000 system with 73,728 cores in 256 compute nodes. There
-be no GPU accelerators in the updated Cirrus system.
+will be no GPU accelerators in the updated Cirrus system.
 
 The compute nodes will each have 288 cores. They are dual socket nodes with two 144-core AMD EPYC(tm) 9825
 processors. There will be 192 standard memory nodes and 64 high memory nodes. Standard memory nodes have
