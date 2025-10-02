@@ -38,6 +38,7 @@ You agree:
 -   to keep your SAFE and machine passwords confidential, and to inform
     us if someone else learns any of them or if you become aware that
     the security of our systems is compromised in any way
+-	to provide an active current email address which will be used to contact you regarding the service
 -   not to misuse the Internet, for example by sending spam or malicious
     software, by pretending to be someone else or by doing anything that
     might hinder or prevent someone else from using the Internet
@@ -47,10 +48,15 @@ You agree:
     pornography, violence, cruelty, incitement to racial hatred,
     prostitution, paedophilia, or for offensive, obscene, abusive,
     menacing, defamatory or insulting behaviour
+-	to observe the [UoE Acceptable Use Policy](https://information-services.ed.ac.uk/about/policies-and-regulations/university-computing-acceptable-use-policy)
 -   to observe the [JANET Acceptable Use
     Policy](https://community.ja.net/library/acceptable-use-policy)
 -   to comply with any special conditions that may apply to particular
     software packages
+-	to comply with [UKRI’s Trusted Research policy and guidance]( https://www.ukri.org/manage-your-award/good-research-resource-hub/trusted-research-and-innovation/)
+-	to comply with the Trusted research policies and guidance of your institution
+-	to comply with all relevant export control laws and regulations including those in our [Export Control document](export-control)
+
 
 We agree:
 ---------
@@ -114,3 +120,12 @@ English courts.
 
 If you have any questions about these Terms and Conditions, please mail
 to the [Cirrus Helpdesk](mailto:support@cirrus.ac.uk).
+
+[Update Logs](https://github.com/EPCCed/cirrus-website/commits/main/about/policies/tandc.md)
+
+- 2025-10-02 Added requirement to comply with export control
+- 2025-09-08 Corrected minor spelling error
+- 2024-10-23 Updates to documentation links
+- 2018-06-19 Updated privacy policy
+- 2017-08-18 Updated content for new site
+- 2017-02-05 Created
